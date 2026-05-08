@@ -1,5 +1,5 @@
 ## Hello! 👋
-[![Xandrice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xandrice)](https://github.com/xandrice/xandrice)
+![Stats](./profile/stats.svg)
 
 - 🔭 I’m currently working on [Renegade Roleplay](Https://discord.gg/renegaderoleplay)
 - 🌱 I’m currently learning [LUA](https://manason.github.io/effective-fivem-lua/) for FiveM
